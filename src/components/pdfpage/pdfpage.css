@@ -1,0 +1,25 @@
+.pdf-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 600px;
+   
+  }
+  .pdf_document{
+    width: 100px;
+  }
+  .page-controls {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .page-controls button {
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .page-controls p {
+    margin-right: 10px;
+  }
+  
